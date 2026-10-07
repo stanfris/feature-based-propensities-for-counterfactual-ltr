@@ -111,3 +111,18 @@ python result_parsing/visualization_scripts/plot_real_targets.py
 
 The PDFs are written to `result_parsing/result_plots/`.
 
+
+
+### Reference
+```
+@inproceedings{Fris2026featurepropensities,
+  author = {Stan Fris and David Vos and Harrie Oosterhuis},
+  title = {Feature=based Propensities for Counterfactual Learning To Rank},
+  booktitle = {Proceedings of the 4th International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP`26)},
+  organization = {ACM},
+  year = {2026},
+}
+```
+
+### License
+This repository uses the [MIT License](https://github.com/stanfris/practical-identifiability-ultr/blob/main/LICENSE).
